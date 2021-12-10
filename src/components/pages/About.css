@@ -1,0 +1,28 @@
+.about-heading {
+    margin-top: 5%;
+    font-size: 50px;
+    text-align: center;
+}
+
+.about-p {
+    font-size: 20px;
+    text-align: center;
+    margin: 50px;
+}
+
+.about-btn {
+    padding: 8px 20px;
+    border-radius: 2px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.kill-me {
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    margin-top: 2%;
+    border-width: 3px;
+    border-color: #061250;
+}
